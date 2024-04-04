@@ -1,0 +1,33 @@
+@font-face {
+    font-family: 'Junegull';
+    src: local('Junegull-Regular'), url('fonts/junegull-regular.woff2') format('woff2'), url('fonts/junegull-regular.woff') format('woff'), url('fonts/junegull-regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+
+a.menu{
+    font-size: 20px;
+    font-family: 'Junegull';
+    font-weight: bolder;
+    vertical-align: bottom;
+    color: black;
+}
+td{
+    vertical-align: bottom;
+}
+p{
+    margin: 0;
+    font-size: 48px;
+    font-family: 'Junegull';
+    color: black;
+}
+header{
+    background-color: #FFDC5F; 
+    width: 101%; 
+    height: 74px; 
+    position: absolute;
+     top: 0px; 
+     left: 0px;
+}
+
